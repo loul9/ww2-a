@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <tag>WW2</tag>
+        <recursos>destiny</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>454A61</corfondo>
+        <corbanda>982E38</corbanda>
+        <cornavega>982E38</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>440406</cortexto>
+        <titulo>La Segunda Guerra Mundial</titulo>
+        <autor>Sebastian Mendoza</autor>
+        <iden>2024164037</iden>
+        <logo>Logo.png</logo>
+        <imaxefondo posx="-1120" posy="-782" trans="100">654505.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="corect.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="uncorrect.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>La Segunda Guerra Mundial </cabeceira>
+              <texto posx="242" posy="4" ancho="585" largo="170"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="32"><b>EL CONFLICTO MILITAR MAS CAÓTICO DEL SIGLO XX</b><br>
+</font><font color="#000000" face="Arial" size="32"><b>1939 - 1945</b><br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>454A61</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>La Segunda Guerra Mundial 1939 - 1945</cabeceira>
+              <texto posx="3" posy="9" ancho="580" largo="316"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="20"><b>¿Qué fue la Segunda Guerra Mundial?</b><br>
+</font><font color="#080000" face="Arial" size="24">La Segunda Guerra Mundial fue un conflicto armado que tuvo lugar entre 1939 y 1945 y que involucró de manera directa o indirecta a la mayor parte del mundo, especialmente a las potencias militares y económicas de la época.<br>
+<br>
+La Segunda Guerra Mundial se desarrolló principalmente en tres escenarios: Europa, el norte de África, y Asia oriental y el Pacífico. En ellos se enfrentaron las tropas de dos bandos opuestos,<b> los Aliados</b> y <b>las Potencias del Eje</b>, en un conflicto que afectó tanto a las fuerzas militares como a la población civil de los países involucrados.<br>
+<br>
+Fuente: https://concepto.de/segunda-guerra-mundial/#ixzz8pc3iystB<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>DA101F</cfondo>
+              <ctexto>982E38</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>¿Cuales son los aliados y cuales son las potencias de eje?</cabeceira>
+              <caixa1>Los Aliados</caixa1>
+              <caixa2>Las Potencias de Eje</caixa2>
+              <mini caixa="1">Uk_flag.png</mini>
+              <mini caixa="2">bandera_alem.png</mini>
+              <mini caixa="2">bandera_italia.png</mini>
+              <mini caixa="1">eeuu.png</mini>
+              <mini caixa="1">Flag-Union-of-Soviet-Socialist-Republics.png</mini>
+              <mini caixa="2">japan.png</mini>
+              <cfondo>454A61</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>¿Cuales son los paises que participaron?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Alemania nazi">bandera_alem.png</cousa>
+              <cousa nome="Italia">bandera_italia.png</cousa>
+              <cousa nome="Japón">japan.png</cousa>
+              <cousa nome="Estados Unidos">eeuu.png</cousa>
+              <cousa nome="URSS">Flag-Union-of-Soviet-Socialist-Republics.png</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <cabeceira>¿que fue lo que paso en pearl harbor?</cabeceira>
+              <imaxe>464505.jpg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="46"><b>¿Que fue lo que pasó en Pearl Harbor?</b><br>
+<br>
+</font><font color="#000000" face="Arial" size="20">En la mañana del 7 de diciembre de 1941 arriba un flota japonesa de barcos de guerra a la base naval estadounidense de Pearl Harbor en Hawai. Con bombas y torpedos disparan los japoneses contra los norteamericanos. Cuando culmina el ataque hay un saldo de más de 3.500 estadounidenses muertos y heridos. Dieciocho buques de guerra también han sido hundidos y cientos de aviones han sido destruidos o dañados.<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>757575</cfondo>
+              <ctexto>982E38</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>Completa El Puzzle </cabeceira>
+              <imaxe>809594.jpg</imaxe>
+              <imfondo  trans="100">809594.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>4</tipo>
+              <cabeceira>Completa la Sopa de letras (Autores Principales)</cabeceira>
+              <pe>Buena suerte Camarada</pe>
+              <modo>1</modo>
+              <sopa enun="ADOLF">ADOLF</sopa>
+              <sopa enun="STALIN">STALIN</sopa>
+              <sopa enun="MUSSOLINI">MUSSOLINI</sopa>
+              <sopa enun="CHURCHILL">CHURCHILL</sopa>
+              <sopa enun="ROOSEVELT">ROOSEVELT</sopa>
+              <sopa enun="HIRO">HIRO</sopa>
+              <sopa enun="TRUMAN">TRUMAN</sopa>
+              <sopa enun="GAULLE">GAULLE</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVXYZ</fondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>Para Tener en Cuenta (Ver Video)</cabeceira>
+              <texto posx="22" posy="43" ancho="161" largo="105"><![CDATA[<font size="12"><iframe width="1280" height="720" src="https://www.youtube.com/embed/_70SAuGykl8?si=TE8Um6ohcWRdjXei" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>440406</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
